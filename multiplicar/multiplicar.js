@@ -39,7 +39,7 @@ let crearArchivo = (base, limite) => {
             if (err)
                 reject(err)
             else
-                resolve(`Archivo tabla-${base} `)
+                resolve(`tabla-${base} `)
         });
 
     });
