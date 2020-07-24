@@ -5,7 +5,6 @@ multiplicar
 
 ejecutar este comando
 
-````````````
-npm install
 
+npm install
 ``````````
